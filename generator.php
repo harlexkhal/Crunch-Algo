@@ -234,7 +234,7 @@ for($i = 0; $i < $Num_Of_Days; $i++)
             <div class="box-header with-border">
               <h4 class="box-title">
                  <a data-toggle="collapse" data-parent="#accordion" href="#autofix">
-                   View Automatic Fixes
+                   Click here to View Auto Fixes for courses that was not added to the table
                   </a>
                </h4>
             </div>
