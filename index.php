@@ -128,7 +128,7 @@
       ?>
 
     <div class="container-fluid bg-1 text-left">
-       <form id="form" action= "init.php" method="post" class="form-horizontal">
+       <form id="form" action= "index.php" method="post" class="form-horizontal">
            <?php for($i = 0; $i < sizeof($ClassMap_NameData) ; $i++) { ?>
              <div class="box-body" style ="border-bottom:3px solid skyblue;">
                 <div class="form-group">
