@@ -159,7 +159,7 @@
                                               <input type="checkbox"  class="col-sm-1"  name= "<?= $ClassMap_CourseData[$i][$j++]?>" value="<?=$Reg_Courses[$Rc]?>">
                                               <label for="ClassName" class="col-sm-3">Number of periods weekly</label>
                                               <input type="number"  class="col-sm-1" name= "<?= $ClassMap_CourseData[$i][$j++]?>"/>
-                                              <label for="ClassName" class="col-sm-2">Tutors Name</label>
+                                              <label for="ClassName" class="col-sm-2">Tutors Name OR Unique ID</label>
                                               <input type="text" class="col-sm-3" name= "<?= $ClassMap_CourseData[$i][$j++]?>" />
                                            </div>
                                            <br />
