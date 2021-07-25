@@ -145,7 +145,7 @@
                                    <div class="box-header with-border">
                                      <h4 class="box-title">
                                         <a data-toggle="collapse" data-parent="#accordion" href="#<?=$ClassMap_NameData[$i]?>">
-                                           Register Courses
+                                           Click here to Register Courses
                                          </a>
                                       </h4>
                                    </div>
@@ -197,6 +197,6 @@
               Button();
             </script>
         <?php }?> 
-    
+    <h6><i>Made BY Alex-Ibeh A.K.A=>harlexkhal copyright 2021</i></h6>
    </body>
 </html>
