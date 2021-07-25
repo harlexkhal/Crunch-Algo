@@ -27,7 +27,7 @@
          <script src="Vendors/Vendor-Bootstrap3-Inuse/dist/js/demo.js"></script>
       </head>
       <body>
-         <h6><i>Crunchy-Algo made BY Alex-Ibeh (harlexkhal) copyright 2021, <a href = "https://github.com/harlexkhal/Crunch-Algo">view source code here, incase you want to modify it to your own need. or contact me if you need something like this for your company or school</a></i></h6>
+         <h3><i>Crunch-Algo made BY Alex-Ibeh (harlexkhal) copyright 2021, <a href = "https://github.com/harlexkhal/Crunch-Algo">view source code here, incase you want to modify it to your own need. or contact me if you need something like this for your company or school</a></i></h3>
          <?php
             error_reporting(0);
                #When new Classes are added this are the array set data thats needs to be changed
