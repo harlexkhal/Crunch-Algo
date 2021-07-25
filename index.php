@@ -158,7 +158,7 @@
                                               <label for="ClassName" class="col-sm-1"><?php echo $Reg_Courses[$Rc]?></label>
                                               <input type="checkbox"  class="col-sm-1"  name= "<?= $ClassMap_CourseData[$i][$j++]?>" value="<?=$Reg_Courses[$Rc]?>">
                                               <label for="ClassName" class="col-sm-3">Number of periods weekly</label>
-                                              <input type="text"  class="col-sm-1" name= "<?= $ClassMap_CourseData[$i][$j++]?>"/>
+                                              <input type="number"  class="col-sm-1" name= "<?= $ClassMap_CourseData[$i][$j++]?>"/>
                                               <label for="ClassName" class="col-sm-2">Tutors Name</label>
                                               <input type="text" class="col-sm-3" name= "<?= $ClassMap_CourseData[$i][$j++]?>" />
                                            </div>
@@ -176,7 +176,7 @@
                     <?php for($d = 1; $d <= 5 ; $d++) { ?>
                       <div class="row">
                          <label for="ClassName" class="col-sm-3">Number of periods day-<?php echo $d;?></label>
-                         <input type="text" class="col-sm-1" name="<?= $ClassMap_DayData_HTML[$i]?>" required/>
+                         <input type="number" class="col-sm-1" name="<?= $ClassMap_DayData_HTML[$i]?>" required/>
                       </div>
                        <br />
                     <?php }?>
